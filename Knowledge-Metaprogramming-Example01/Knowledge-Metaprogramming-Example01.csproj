@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{9407C94B-EA71-4338-95E4-A9B79D989582}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Knowledge_Metaprogramming_Example01</RootNamespace>
+    <RootNamespace>Knowledge.Metaprogramming.Example01</RootNamespace>
     <AssemblyName>Knowledge-Metaprogramming-Example01</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
